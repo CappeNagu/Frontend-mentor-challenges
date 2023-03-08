@@ -1,0 +1,13 @@
+#Body{
+    background-color: hsl(217, 54%, 11%);
+}
+#image{
+      width: 500px;
+}
+.borde{
+    border: 0px;
+    border-width: 50px ;
+    border-bottom-width: 80px ;
+    border-radius: 10px;
+    border-color:hsl(216, 50%, 16%) ;
+}
